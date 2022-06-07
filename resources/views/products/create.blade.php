@@ -15,6 +15,9 @@
                 <label for="exampleFormControlTextarea1" class="form-label">Описание новости</label>
                 <textarea name="body" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
             </div>
+            <div class="mb-3">
+                <input type="submit" class="btn btn-info" id="exampleFormControlTextarea1" value="Добавить новость">
+            </div>
         </form>
     </div>
 @endsection
